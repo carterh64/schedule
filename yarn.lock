@@ -133,10 +133,10 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mongoose@^5.5.30":
-  version "5.5.32"
-  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.5.32.tgz#8a76c5be029086c1225bf88ed3ca83f01181121f"
-  integrity sha512-2BemWy7SynT87deweqc2eCzg6pRyTVlnnMat2JxsTNoyeSFKC27b19qBTeKRfBVt+SjtaWd/ud4faUaObONwBA==
+"@types/mongoose@^5.5.40":
+  version "5.5.40"
+  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.5.40.tgz#a8bc6613053237d1e424be34d90aa85c41723e8d"
+  integrity sha512-U01mOJaL5t9Ef+vBKnBhQ0OMJBdeARJJU0/fyGYCTw48mgy4Vb92jSgBHANpzU4Ry6ibd7wi0KZA+0pvltMCrQ==
   dependencies:
     "@types/mongodb" "*"
     "@types/node" "*"
